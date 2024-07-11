@@ -1,0 +1,2 @@
+cmake-js configure
+pause

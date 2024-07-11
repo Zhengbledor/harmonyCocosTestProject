@@ -1,0 +1,17 @@
+{
+  "platform": "WECHAT",
+  "engine": "/Users/mac/Documents/editor_3d/v3.8.2/resources/3d/engine",
+  "out": "/Users/mac/Documents/editor_3d/v3.8.2/resources/3d/engine/bin/.cache/editor-cache/wechat-game/cocos",
+  "moduleFormat": "system",
+  "compress": true,
+  "ammoJsWasm": false,
+  "split": true,
+  "mode": "BUILD",
+  "flags": {
+    "SERVER_MODE": false,
+    "DEBUG": false,
+    "FORCE_BANNING_BULLET_WASM": true
+  },
+  "preserveType": false,
+  "loose": true
+}
