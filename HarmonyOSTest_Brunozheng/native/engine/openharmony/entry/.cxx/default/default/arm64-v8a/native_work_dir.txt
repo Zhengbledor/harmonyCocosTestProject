@@ -1,0 +1,1 @@
+/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/.cxx/default/default/arm64-v8a

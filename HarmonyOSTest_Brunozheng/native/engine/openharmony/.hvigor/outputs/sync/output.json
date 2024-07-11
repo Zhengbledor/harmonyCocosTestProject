@@ -1,0 +1,116 @@
+{
+  "ohos-module-entry": {
+    "SELECT_TARGET": "default",
+    "MODULE_BUILD_DIR": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build",
+    "TARGETS": {
+      "default": {
+        "SOURCE_ROOT": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/src/main",
+        "RESOURCES_PATH": [
+          "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/src/main/resources"
+        ],
+        "BUILD_PATH": {
+          "OUTPUT_PATH": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/outputs/default",
+          "INTERMEDIA_PATH": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates",
+          "JS_ASSETS_PATH": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/loader_out/default",
+          "JS_LITE_ASSETS_PATH": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/loader_out_lite/default",
+          "RES_PATH": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/res/default",
+          "RES_PROFILE_PATH": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/res/default/resources/base/profile",
+          "ETS_SUPER_VISUAL_PATH": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/cache/default/default@CompileArkTS/esmodule",
+          "JS_SUPER_VISUAL_PATH": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/cache/default/default@CompileJS/jsbundle",
+          "WORKER_LOADER": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/loader/default/loader.json",
+          "MANIFEST_JSON": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/manifest/default",
+          "OUTPUT_METADATA_JSON": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/hap_metadata/default/output_metadata.json"
+        },
+        "BUILD_OPTION": {
+          "debuggable": false
+        }
+      }
+    },
+    "BUILD_OPTION": {
+      "default-default": {
+        "debuggable": false,
+        "copyFrom": "default",
+        "externalNativeOptions": {
+          "path": "../CMakeLists.txt",
+          "arguments": "-v -DOHOS_STL=c++_shared -DRES_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../build/openharmony -DCOMMON_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../native/engine/common -DOPENHARMONY=1",
+          "abiFilters": [
+            "arm64-v8a"
+          ],
+          "cppFlags": ""
+        }
+      }
+    },
+    "BUILD_PROFILE_OPT": {
+      "apiType": "stageMode",
+      "buildOption": {
+        "externalNativeOptions": {
+          "path": "../CMakeLists.txt",
+          "arguments": "-v -DOHOS_STL=c++_shared -DRES_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../build/openharmony -DCOMMON_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../native/engine/common -DOPENHARMONY=1",
+          "abiFilters": [
+            "arm64-v8a"
+          ],
+          "cppFlags": ""
+        }
+      },
+      "targets": [
+        {
+          "name": "default",
+          "runtimeOS": "HarmonyOS"
+        }
+      ]
+    }
+  },
+  "ohos-project": {
+    "SELECT_PRODUCT_NAME": "default",
+    "MODULE_BUILD_DIR": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/build",
+    "BUNDLE_NAME": "com.cocos.openharmony",
+    "BUILD_PATH": {
+      "OUTPUT_PATH": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/build/outputs/default"
+    },
+    "MODULES": [
+      {
+        "name": "entry",
+        "srcPath": "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry",
+        "targets": [
+          {
+            "name": "default",
+            "applyToProducts": [
+              "default"
+            ]
+          }
+        ]
+      }
+    ],
+    "PROFILE_OPT": {
+      "app": {
+        "products": [
+          {
+            "name": "default",
+            "signingConfig": "default",
+            "compatibleSdkVersion": "4.0.0(10)",
+            "runtimeOS": "HarmonyOS"
+          }
+        ]
+      },
+      "modules": [
+        {
+          "name": "entry",
+          "srcPath": "./entry",
+          "targets": [
+            {
+              "name": "default",
+              "applyToProducts": [
+                "default"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "CONFIG_PROPERTIES": {
+      "enableSignTask": true,
+      "skipNativeIncremental": false
+    }
+  },
+  "version": 1
+}

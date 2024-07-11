@@ -1,0 +1,880 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libcocos.so"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"target_link_options",
+			"cc_openharmony_after_target",
+			"link_directories",
+			"include",
+			"target_link_libraries",
+			"add_definitions",
+			"target_compile_definitions",
+			"cc_common_after_target",
+			"include_directories",
+			"project",
+			"target_include_directories"
+		],
+		"files" : 
+		[
+			"CMakeLists.txt",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/templates/cmake/openharmony.cmake",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/openharmony/CMakeLists.txt",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/CMakeLists.txt",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/CMakeLists.txt",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/common/CMakeLists.txt",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/boost-source/boost.cmake",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/CMakeLists.txt",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/cmake/predefine.cmake",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/templates/cmake/common.cmake",
+			"/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/hms/native/build/cmake/hmos.toolchain.cmake",
+			"/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/build-tools/cmake/share/cmake-3.16/Modules/CMakeDetermineSystem.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 19,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 18,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 5,
+				"parent" : 5
+			},
+			{
+				"command" : 4,
+				"file" : 5,
+				"line" : 50,
+				"parent" : 6
+			},
+			{
+				"file" : 4,
+				"parent" : 7
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 243,
+				"parent" : 8
+			},
+			{
+				"file" : 3,
+				"parent" : 9
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 25,
+				"parent" : 10
+			},
+			{
+				"file" : 2,
+				"parent" : 11
+			},
+			{
+				"command" : 3,
+				"file" : 2,
+				"line" : 211,
+				"parent" : 12
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 11,
+				"parent" : 2
+			},
+			{
+				"command" : 4,
+				"file" : 3,
+				"line" : 12,
+				"parent" : 10
+			},
+			{
+				"file" : 7,
+				"parent" : 15
+			},
+			{
+				"command" : 4,
+				"file" : 7,
+				"line" : 50,
+				"parent" : 16
+			},
+			{
+				"file" : 6,
+				"parent" : 17
+			},
+			{
+				"command" : 6,
+				"file" : 6,
+				"line" : 3,
+				"parent" : 18
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 91,
+				"parent" : 8
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 98,
+				"parent" : 8
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 94,
+				"parent" : 8
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 96,
+				"parent" : 8
+			},
+			{
+				"command" : 6,
+				"file" : 4,
+				"line" : 95,
+				"parent" : 8
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 2,
+				"parent" : 8
+			},
+			{
+				"file" : 8,
+				"parent" : 25
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 105,
+				"parent" : 26
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 98,
+				"parent" : 26
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 104,
+				"parent" : 26
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 95,
+				"parent" : 26
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 100,
+				"parent" : 26
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 94,
+				"parent" : 26
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 97,
+				"parent" : 26
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 96,
+				"parent" : 26
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 102,
+				"parent" : 26
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 99,
+				"parent" : 26
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 103,
+				"parent" : 26
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 101,
+				"parent" : 26
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 93,
+				"parent" : 26
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 24,
+				"parent" : 2
+			},
+			{
+				"command" : 7,
+				"file" : 9,
+				"line" : 135,
+				"parent" : 40
+			},
+			{
+				"command" : 6,
+				"file" : 8,
+				"line" : 69,
+				"parent" : 26
+			},
+			{
+				"command" : 10,
+				"file" : 0,
+				"line" : 10,
+				"parent" : 0
+			},
+			{
+				"file" : 11,
+				"parent" : 43
+			},
+			{
+				"command" : 4,
+				"file" : 11,
+				"line" : 93,
+				"parent" : 44
+			},
+			{
+				"file" : 10,
+				"parent" : 45
+			},
+			{
+				"command" : 9,
+				"file" : 10,
+				"line" : 25,
+				"parent" : 46
+			},
+			{
+				"command" : 9,
+				"file" : 4,
+				"line" : 195,
+				"parent" : 8
+			},
+			{
+				"command" : 9,
+				"file" : 2,
+				"line" : 212,
+				"parent" : 12
+			},
+			{
+				"command" : 11,
+				"file" : 1,
+				"line" : 21,
+				"parent" : 2
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-fvisibility=hidden -fvisibility-inlines-hidden -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -D__MUSL__ -O2 -DNDEBUG  -fPIC  "
+				},
+				{
+					"fragment" : "-std=c++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 19,
+					"define" : "BOOST_ALL_NO_LIB=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "BOOST_CONTAINER_NO_LIB"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "BOOST_CONTAINER_STATIC_LINK"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "BOOST_NO_CXX98_FUNCTION_BASE"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "BOOST_UUID_FORCE_AUTO_LINK"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_EDITOR=0"
+				},
+				{
+					"backtrace" : 21,
+					"define" : "CC_NETMODE=0"
+				},
+				{
+					"backtrace" : 22,
+					"define" : "CC_NETMODE_CLIENT=0"
+				},
+				{
+					"backtrace" : 23,
+					"define" : "CC_NETMODE_HOST_SERVER=2"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "CC_NETMODE_LISTEN_SERVER=1"
+				},
+				{
+					"backtrace" : 27,
+					"define" : "CC_PLATFORM=10"
+				},
+				{
+					"backtrace" : 28,
+					"define" : "CC_PLATFORM_ANDROID=3"
+				},
+				{
+					"backtrace" : 29,
+					"define" : "CC_PLATFORM_EMSCRIPTEN=9"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "CC_PLATFORM_IOS=1"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "CC_PLATFORM_LINUX=6"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "CC_PLATFORM_MACOS=4"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "CC_PLATFORM_MAC_IOS=1"
+				},
+				{
+					"backtrace" : 34,
+					"define" : "CC_PLATFORM_MAC_OSX=4"
+				},
+				{
+					"backtrace" : 35,
+					"define" : "CC_PLATFORM_NX=8"
+				},
+				{
+					"backtrace" : 36,
+					"define" : "CC_PLATFORM_OHOS=5"
+				},
+				{
+					"backtrace" : 37,
+					"define" : "CC_PLATFORM_OPENHARMONY=10"
+				},
+				{
+					"backtrace" : 38,
+					"define" : "CC_PLATFORM_QNX=7"
+				},
+				{
+					"backtrace" : 39,
+					"define" : "CC_PLATFORM_WINDOWS=2"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_AR_AUTO=0"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_AR_CORE=0"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_AR_ENGINE=0"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_AR_MODULE=0"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_AUDIO=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_DEBUG_RENDERER=0"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_DRAGONBONES=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_EDITBOX=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_GEOMETRY_RENDERER=0"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_GLES3"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_JOB_SYSTEM_TASKFLOW=0"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_JOB_SYSTEM_TBB=0"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_MIDDLEWARE=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_OCCLUSION_QUERY=0"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_PHYSICS_PHYSX=0"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_SOCKET=0"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_SPINE=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_VIDEO=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_WEBP=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_WEBSOCKET_SERVER=0"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_WEBVIEW=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_XR=0"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "CC_USE_XR_REMOTE_PREVIEW=0"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "ENABLE_FLOAT_OUTPUT=0"
+				},
+				{
+					"backtrace" : 41,
+					"define" : "GAME_NAME=\"\""
+				},
+				{
+					"backtrace" : 14,
+					"define" : "SCRIPT_ENGINE_TYPE=5"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "USE_V8_DEBUGGER=0"
+				},
+				{
+					"backtrace" : 42,
+					"define" : "__OPENHARMONY__=1"
+				},
+				{
+					"define" : "cocos_EXPORTS"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 47,
+					"path" : "/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/hms/native/sysroot/usr/include"
+				},
+				{
+					"backtrace" : 48,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources"
+				},
+				{
+					"backtrace" : 49,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/ext/usr/include"
+				},
+				{
+					"backtrace" : 50,
+					"path" : "/../common/Classes"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/include/sqlite"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/include/png16"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/include/uv"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/include/mbedtls_wrapper"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/cocos"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/cocos/renderer"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/cocos/platform"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/cocos/renderer/core"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/cocos/editor-support"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/.cxx/default/default/arm64-v8a/generated"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/.cxx/default/default/arm64-v8a/generated/cocos"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/cocos/bindings/jswrapper"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/EGL"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/khronos"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/pvmp3dec/src"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/pvmp3dec/include"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/tremolo/Tremolo"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			],
+			"sysroot" : 
+			{
+				"path" : "/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/sysroot"
+			}
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 14,
+			"id" : "cocos_engine::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "vorbisidec::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "pvmp3dec::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 14,
+			"id" : "boost_container::@e8445c4f7494ecc3b64c"
+		}
+	],
+	"id" : "cocos::@6890427a1f51a3e7e1df",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "--rtlib=compiler-rt -fuse-ld=lld -Wl,--build-id=sha1 -Wl,--warn-shared-textrel -Wl,--fatal-warnings -lunwind -Wl,--no-undefined -Qunused-arguments -Wl,-z,noexecstack",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-Wl,--gc-sections",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "-Wl,-s",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "-L/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/ext/usr/lib",
+				"role" : "libraryPath"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/ext/usr/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 14,
+				"fragment" : "libcocos_engine.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lEGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lGLESv3",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lhilog_ndk.z",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lace_napi.z",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lace_ndk.z",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lz",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-luv",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lnative_drawing",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lrawfile.z",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lOpenSLES",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "boost/container/libboost_container.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "libpvmp3dec.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "libvorbisidec.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libmbedtls.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libmbedcrypto.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libmbedx509.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libjpeg.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libpng16.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libsqlite3.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libwebp.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libcurl.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libglslang.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libOGLCompiler.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libOSDependent.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libSPIRV.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libglslang-default-resource-limits.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libMachineIndependent.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/cmake/../openharmony/arm64-v8a/lib/libGenericCodeGen.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lm",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX",
+		"sysroot" : 
+		{
+			"path" : "/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/sysroot"
+		}
+	},
+	"name" : "cocos",
+	"nameOnDisk" : "libcocos.so",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/common/Classes/Game.h",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/common/Classes/Game.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/cocos/platform/openharmony/napi/NapiInit.cpp",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "SHARED_LIBRARY"
+}

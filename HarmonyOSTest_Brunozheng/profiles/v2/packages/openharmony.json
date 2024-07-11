@@ -1,0 +1,67 @@
+{
+  "__version__": "1.0.0",
+  "builder": {
+    "common": {
+      "buildPath": "project://build",
+      "outputName": "openharmony",
+      "mainBundleCompressionType": "merge_dep",
+      "platform": "openharmony",
+      "scenes": [
+        {
+          "url": "db://assets/resources/harmonyTestScene.scene",
+          "uuid": "cdd1ec84-0760-4ca1-9281-6dbe446228f6",
+          "bundle": "db://assets/resources"
+        }
+      ],
+      "bundleConfigs": [],
+      "md5Cache": false,
+      "useSplashScreen": true,
+      "mainBundleIsRemote": false
+    },
+    "options": {
+      "openharmony": {
+        "packageName": "com.cocos.openharmony",
+        "orientation": {
+          "portrait": false,
+          "upsideDown": false,
+          "landscapeRight": true,
+          "landscapeLeft": true
+        },
+        "apiLevel": "7",
+        "appABIs": [
+          "arm64-v8a"
+        ],
+        "sdkPath": "",
+        "ndkPath": "",
+        "renderBackEnd": {
+          "gles3": true
+        },
+        "useAotOptimization": false,
+        "__version__": "1.0.0"
+      }
+    },
+    "taskOptionsMap": {
+      "1720532513317": {
+        "packageName": "com.cocos.openharmony",
+        "orientation": {
+          "portrait": false,
+          "upsideDown": false,
+          "landscapeRight": true,
+          "landscapeLeft": true
+        },
+        "apiLevel": "7",
+        "appABIs": [
+          "arm64-v8a"
+        ],
+        "sdkPath": "",
+        "ndkPath": "",
+        "renderBackEnd": {
+          "gles3": true
+        },
+        "useAotOptimization": false,
+        "__version__": "1.0.0"
+      }
+    },
+    "__version__": "1.3.7"
+  }
+}

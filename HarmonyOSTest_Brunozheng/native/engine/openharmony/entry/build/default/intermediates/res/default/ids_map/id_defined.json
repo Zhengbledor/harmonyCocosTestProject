@@ -1,0 +1,43 @@
+{
+	"record":	[{
+			"type":	"string",
+			"name":	"app_name",
+			"id":	"0x01000000"
+		}, {
+			"type":	"media",
+			"name":	"app_icon",
+			"id":	"0x01000001"
+		}, {
+			"type":	"string",
+			"name":	"MainAbility_desc",
+			"id":	"0x01000002"
+		}, {
+			"type":	"string",
+			"name":	"MainAbility_label",
+			"id":	"0x01000003"
+		}, {
+			"type":	"string",
+			"name":	"entry_desc",
+			"id":	"0x01000004"
+		}, {
+			"type":	"string",
+			"name":	"permissions_label",
+			"id":	"0x01000005"
+		}, {
+			"type":	"color",
+			"name":	"black",
+			"id":	"0x01000006"
+		}, {
+			"type":	"color",
+			"name":	"white",
+			"id":	"0x01000007"
+		}, {
+			"type":	"media",
+			"name":	"icon",
+			"id":	"0x01000008"
+		}, {
+			"type":	"profile",
+			"name":	"main_pages",
+			"id":	"0x01000009"
+		}]
+}

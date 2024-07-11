@@ -1,0 +1,19 @@
+{
+  apiType: 'stageMode',
+  buildOption: {
+    externalNativeOptions: {
+      path: '../CMakeLists.txt',
+      arguments: '-v -DOHOS_STL=c++_shared -DRES_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../build/openharmony -DCOMMON_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../native/engine/common -DOPENHARMONY=1',
+      abiFilters: [
+        'arm64-v8a',
+      ],
+      cppFlags: '',
+    },
+  },
+  targets: [
+    {
+      name: 'default',
+      runtimeOS: 'HarmonyOS',
+    },
+  ],
+}

@@ -1,0 +1,89 @@
+{
+	"app": {
+		"bundleName": "com.cocos.openharmony",
+		"vendor": "example",
+		"versionCode": 1000000,
+		"versionName": "1.0.0",
+		"icon": "$media:app_icon",
+		"label": "$string:app_name",
+		"distributedNotificationEnabled": true,
+		"apiReleaseType": "Beta1",
+		"compileSdkVersion": "5.0.0.25",
+		"targetAPIVersion": 50000012,
+		"minAPIVersion": 40000010,
+		"compileSdkType": "HarmonyOS",
+		"appEnvironments": [],
+		"bundleType": "app"
+	},
+	"module": {
+		"name": "entry",
+		"type": "entry",
+		"description": "$string:entry_desc",
+		"mainElement": "MainAbility",
+		"deviceTypes": [
+			"default",
+			"tablet"
+		],
+		"deliveryWithInstall": true,
+		"installationFree": false,
+		"pages": "$profile:main_pages",
+		"abilities": [
+			{
+				"exported": true,
+				"name": "MainAbility",
+				"description": "$string:MainAbility_desc",
+				"orientation": "auto_rotation_landscape",
+				"icon": "$media:icon",
+				"label": "$string:MainAbility_label",
+				"startWindowIcon": "$media:icon",
+				"startWindowBackground": "$color:black",
+				"skills": [
+					{
+						"entities": [
+							"entity.system.home"
+						],
+						"actions": [
+							"action.system.home"
+						]
+					}
+				],
+				"srcEntry": "./ets/MainAbility/MainAbility.ts"
+			}
+		],
+		"requestPermissions": [
+			{
+				"name": "ohos.permission.INTERNET"
+			},
+			{
+				"name": "ohos.permission.ACCELEROMETER",
+				"reason": "$string:permissions_label",
+				"usedScene": {
+					"abilities": [
+						"MainAbility"
+					],
+					"when": "inuse"
+				}
+			},
+			{
+				"name": "ohos.permission.GYROSCOPE",
+				"reason": "$string:permissions_label",
+				"usedScene": {
+					"abilities": [
+						"MainAbility"
+					],
+					"when": "inuse"
+				}
+			}
+		],
+		"metadata": [
+			{
+				"name": "ArkTSPartialUpdate",
+				"value": "true"
+			}
+		],
+		"packageName": "entry",
+		"virtualMachine": "ark9.0.0.0",
+		"compileMode": "esmodule",
+		"dependencies": []
+	}
+}

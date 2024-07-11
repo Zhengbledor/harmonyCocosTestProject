@@ -1,0 +1,489 @@
+[2024-07-11T14:57:11.645] [DEBUG] debug-file - entry : default@PreBuild cost memory 0.20388031005859375
+[2024-07-11T14:57:11.645] [INFO] debug-file - UP-TO-DATE :entry:default@PreBuild...  
+[2024-07-11T14:57:11.646] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.646] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.646] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:11.647] [DEBUG] debug-file - Executing task :entry:default@GenerateMetadata
+[2024-07-11T14:57:11.647] [DEBUG] debug-file - Incremental task entry:default@GenerateMetadata pre-execution cost: 1 ms .
+[2024-07-11T14:57:11.647] [DEBUG] debug-file - entry : default@GenerateMetadata cost memory 0.1964111328125
+[2024-07-11T14:57:11.648] [INFO] debug-file - UP-TO-DATE :entry:default@GenerateMetadata...  
+[2024-07-11T14:57:11.648] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.648] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.648] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:11.648] [DEBUG] debug-file - Executing task :entry:default@ConfigureCmake
+[2024-07-11T14:57:11.869] [DEBUG] debug-file - entry : default@ConfigureCmake cost memory -8.571533203125
+[2024-07-11T14:57:11.870] [DEBUG] debug-file - runTaskFromQueue task cost before running: 446 ms 
+[2024-07-11T14:57:11.870] [INFO] debug-file - Finished :entry:default@ConfigureCmake... after 222 ms 
+[2024-07-11T14:57:11.871] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.871] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.871] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:11.872] [DEBUG] debug-file - Executing task :entry:default@MergeProfile
+[2024-07-11T14:57:11.872] [DEBUG] debug-file - Incremental task entry:default@MergeProfile pre-execution cost: 1 ms .
+[2024-07-11T14:57:11.872] [DEBUG] debug-file - entry : default@MergeProfile cost memory 0.0942840576171875
+[2024-07-11T14:57:11.872] [INFO] debug-file - UP-TO-DATE :entry:default@MergeProfile...  
+[2024-07-11T14:57:11.873] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.873] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.873] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:11.874] [DEBUG] debug-file - Executing task :entry:default@CreateBuildProfile
+[2024-07-11T14:57:11.875] [DEBUG] debug-file - Incremental task entry:default@CreateBuildProfile pre-execution cost: 2 ms .
+[2024-07-11T14:57:11.875] [DEBUG] debug-file - entry : default@CreateBuildProfile cost memory 0.1033935546875
+[2024-07-11T14:57:11.875] [INFO] debug-file - UP-TO-DATE :entry:default@CreateBuildProfile...  
+[2024-07-11T14:57:11.881] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.881] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.881] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:11.881] [DEBUG] debug-file - Executing task :entry:default@PreCheckSyscap
+[2024-07-11T14:57:11.881] [DEBUG] debug-file - entry : default@PreCheckSyscap cost memory 0.01313018798828125
+[2024-07-11T14:57:11.881] [DEBUG] debug-file - runTaskFromQueue task cost before running: 458 ms 
+[2024-07-11T14:57:11.881] [INFO] debug-file - Finished :entry:default@PreCheckSyscap... after 1 ms 
+[2024-07-11T14:57:11.883] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.883] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.883] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:11.891] [DEBUG] debug-file - Executing task :entry:default@GeneratePkgContextInfo
+[2024-07-11T14:57:11.891] [DEBUG] debug-file - entry : default@GeneratePkgContextInfo cost memory 0.02001953125
+[2024-07-11T14:57:11.891] [DEBUG] debug-file - runTaskFromQueue task cost before running: 468 ms 
+[2024-07-11T14:57:11.891] [INFO] debug-file - Finished :entry:default@GeneratePkgContextInfo... after 1 ms 
+[2024-07-11T14:57:11.892] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.892] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.892] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:11.893] [DEBUG] debug-file - Executing task :entry:default@ProcessIntegratedHsp
+[2024-07-11T14:57:11.913] [DEBUG] debug-file - entry:default@ProcessIntegratedHsp is not up-to-date, since the output file '/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/build/cache/default/integrated_hsp/integratedHspCache.json' does not exist.
+[2024-07-11T14:57:11.913] [DEBUG] debug-file - Incremental task entry:default@ProcessIntegratedHsp pre-execution cost: 21 ms .
+[2024-07-11T14:57:11.914] [DEBUG] debug-file - entry : default@ProcessIntegratedHsp cost memory 0.083282470703125
+[2024-07-11T14:57:11.914] [DEBUG] debug-file - runTaskFromQueue task cost before running: 490 ms 
+[2024-07-11T14:57:11.914] [INFO] debug-file - Finished :entry:default@ProcessIntegratedHsp... after 21 ms 
+[2024-07-11T14:57:11.915] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.915] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.915] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:11.915] [DEBUG] debug-file - Executing task :entry:default@BuildNativeWithCmake
+[2024-07-11T14:57:11.925] [DEBUG] debug-file - Use tool [Cmake]
+ [
+  '/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/build-tools/cmake/bin/cmake',
+  '-v',
+  '-DOHOS_STL=c++_shared',
+  '-DRES_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../build/openharmony',
+  '-DCOMMON_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../native/engine/common',
+  '-DOPENHARMONY=1',
+  '-H/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony',
+  '-B/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/.cxx/default/default/arm64-v8a',
+  '-DOHOS_ARCH=arm64-v8a',
+  '-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/cmake/default/obj/arm64-v8a',
+  '-DCMAKE_BUILD_TYPE=Release',
+  '-DOHOS_SDK_NATIVE=/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native',
+  '-DCMAKE_SYSTEM_NAME=OHOS',
+  '-DCMAKE_OHOS_ARCH_ABI=arm64-v8a',
+  '-DCMAKE_EXPORT_COMPILE_COMMANDS=ON',
+  '-DCMAKE_TOOLCHAIN_FILE=/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/hms/native/build/cmake/hmos.toolchain.cmake',
+  '-GNinja',
+  '-DCMAKE_MAKE_PROGRAM=/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/build-tools/cmake/bin/ninja',
+  '-DCMAKE_FIND_ROOT_PATH=/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/.cxx/default/default/hvigor/arm64-v8a',
+  '-DPACKAGE_FIND_FILE=/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/.cxx/default/default/hvigor/arm64-v8a/summary.cmake',
+  '--no-warn-unused-cli',
+  '-DHMOS_SDK_NATIVE=/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/hms/native'
+]
+[2024-07-11T14:57:11.952] [DEBUG] debug-file - CMake configuration was up-to-date
+[2024-07-11T14:57:11.956] [DEBUG] debug-file - entry : default@BuildNativeWithCmake cost memory 0.47637939453125
+[2024-07-11T14:57:11.956] [DEBUG] debug-file - runTaskFromQueue task cost before running: 532 ms 
+[2024-07-11T14:57:11.956] [INFO] debug-file - Finished :entry:default@BuildNativeWithCmake... after 41 ms 
+[2024-07-11T14:57:11.956] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.956] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.957] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:11.957] [DEBUG] debug-file - Executing task :entry:default@MakePackInfo
+[2024-07-11T14:57:11.957] [DEBUG] debug-file - Incremental task entry:default@MakePackInfo pre-execution cost: 1 ms .
+[2024-07-11T14:57:11.957] [DEBUG] debug-file - entry : default@MakePackInfo cost memory 0.121124267578125
+[2024-07-11T14:57:11.958] [INFO] debug-file - UP-TO-DATE :entry:default@MakePackInfo...  
+[2024-07-11T14:57:11.966] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.966] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.968] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:11.969] [DEBUG] debug-file - Executing task :entry:default@ProcessProfile
+[2024-07-11T14:57:11.969] [DEBUG] debug-file - Incremental task entry:default@ProcessProfile pre-execution cost: 1 ms .
+[2024-07-11T14:57:11.969] [DEBUG] debug-file - entry : default@ProcessProfile cost memory 0.04813385009765625
+[2024-07-11T14:57:11.969] [INFO] debug-file - UP-TO-DATE :entry:default@ProcessProfile...  
+[2024-07-11T14:57:11.970] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.970] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.970] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:11.970] [DEBUG] debug-file - Executing task :entry:default@SyscapTransform
+[2024-07-11T14:57:11.971] [DEBUG] debug-file - entry:default@SyscapTransform is not up-to-date, since the output file '/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/syscap/default/rpcid.sc' does not exist.
+[2024-07-11T14:57:11.972] [DEBUG] debug-file - Incremental task entry:default@SyscapTransform pre-execution cost: 1 ms .
+[2024-07-11T14:57:11.972] [DEBUG] debug-file - entry : default@SyscapTransform cost memory 0.08380889892578125
+[2024-07-11T14:57:11.972] [DEBUG] debug-file - runTaskFromQueue task cost before running: 548 ms 
+[2024-07-11T14:57:11.972] [INFO] debug-file - Finished :entry:default@SyscapTransform... after 2 ms 
+[2024-07-11T14:57:11.974] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.974] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:11.974] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:11.976] [DEBUG] debug-file - Executing task :entry:default@ProcessRouterMap
+[2024-07-11T14:57:12.001] [DEBUG] debug-file - Incremental task entry:default@ProcessRouterMap pre-execution cost: 25 ms .
+[2024-07-11T14:57:12.001] [DEBUG] debug-file - entry : default@ProcessRouterMap cost memory 0.23313140869140625
+[2024-07-11T14:57:12.002] [INFO] debug-file - UP-TO-DATE :entry:default@ProcessRouterMap...  
+[2024-07-11T14:57:12.003] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:12.003] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:12.003] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:12.003] [DEBUG] debug-file - Executing task :entry:default@BuildNativeWithNinja
+[2024-07-11T14:57:12.005] [DEBUG] debug-file - Use tool [Ninja]
+ [
+  '/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/build-tools/cmake/bin/ninja',
+  '-C',
+  '/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/.cxx/default/default/arm64-v8a'
+]
+[2024-07-11T14:57:12.005] [DEBUG] debug-file - default@BuildNativeWithNinja work[22] is submitted.
+[2024-07-11T14:57:12.006] [DEBUG] debug-file - default@BuildNativeWithNinja work[22] is pushed to ready queue.
+[2024-07-11T14:57:12.006] [DEBUG] debug-file - default@BuildNativeWithNinja work[22] is not dispatched.
+[2024-07-11T14:57:12.010] [DEBUG] debug-file - Link /Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/llvm/lib/aarch64-linux-ohos/c++/libc++_shared.so to /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libc++_shared.so successfully.
+[2024-07-11T14:57:12.010] [DEBUG] debug-file - entry : default@BuildNativeWithNinja cost memory 0.3559112548828125
+[2024-07-11T14:57:12.011] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:12.011] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:12.011] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:12.011] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@ProcessResource
+[2024-07-11T14:57:12.017] [DEBUG] debug-file - Executing task :entry:default@ProcessResource
+[2024-07-11T14:57:12.017] [DEBUG] debug-file - Incremental task entry:default@ProcessResource pre-execution cost: 1 ms .
+[2024-07-11T14:57:12.017] [DEBUG] debug-file - entry : default@ProcessResource cost memory 0.09877777099609375
+[2024-07-11T14:57:12.019] [INFO] debug-file - UP-TO-DATE :entry:default@ProcessResource...  
+[2024-07-11T14:57:12.021] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:12.022] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:12.022] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:12.022] [DEBUG] debug-file - Executing task :entry:default@GenerateLoaderJson
+[2024-07-11T14:57:12.034] [DEBUG] debug-file - Incremental task entry:default@GenerateLoaderJson pre-execution cost: 10 ms .
+[2024-07-11T14:57:12.034] [DEBUG] debug-file - entry : default@GenerateLoaderJson cost memory 0.43181610107421875
+[2024-07-11T14:57:12.041] [INFO] debug-file - UP-TO-DATE :entry:default@GenerateLoaderJson...  
+[2024-07-11T14:57:12.042] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:12.042] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:12.042] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:12.043] [DEBUG] debug-file - restool module names: entry; moduleName=entry, taskName=default@CompileResource
+[2024-07-11T14:57:12.045] [DEBUG] debug-file - Executing task :entry:default@CompileResource
+[2024-07-11T14:57:12.074] [DEBUG] debug-file - Incremental task entry:default@CompileResource pre-execution cost: 28 ms .
+[2024-07-11T14:57:12.074] [DEBUG] debug-file - entry : default@CompileResource cost memory -6.025047302246094
+[2024-07-11T14:57:12.075] [INFO] debug-file - UP-TO-DATE :entry:default@CompileResource...  
+[2024-07-11T14:57:12.075] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:12.075] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:12.075] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:12.076] [DEBUG] debug-file - Executing task :entry:default@CompileArkTS
+[2024-07-11T14:57:12.122] [DEBUG] debug-file - Incremental task entry:default@CompileArkTS pre-execution cost: 45 ms .
+[2024-07-11T14:57:12.122] [DEBUG] debug-file - entry : default@CompileArkTS cost memory 0.8122406005859375
+[2024-07-11T14:57:12.123] [INFO] debug-file - UP-TO-DATE :entry:default@CompileArkTS...  
+[2024-07-11T14:57:12.126] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:12.126] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:12.126] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:12.127] [DEBUG] debug-file - Executing task :entry:default@BuildJS
+[2024-07-11T14:57:12.128] [DEBUG] debug-file - entry : default@BuildJS cost memory 0.1019744873046875
+[2024-07-11T14:57:12.128] [DEBUG] debug-file - runTaskFromQueue task cost before running: 705 ms 
+[2024-07-11T14:57:12.128] [INFO] debug-file - Finished :entry:default@BuildJS... after 2 ms 
+[2024-07-11T14:57:12.535] [DEBUG] debug-file - A work dispatched to worker[9] failed because unable to get work from ready queue.
+[2024-07-11T14:57:12.535] [DEBUG] debug-file - default@BuildNativeWithNinja work[22] has been dispatched to worker[8].
+[2024-07-11T14:57:15.390] [DEBUG] debug-file - External build set its own library output location for libboost_container.a, which will be hard linked or copy to the expected location.
+[2024-07-11T14:57:15.391] [DEBUG] debug-file - Link /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/.cxx/default/default/arm64-v8a/boost/container/libboost_container.a to /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libboost_container.a successfully.
+[2024-07-11T14:57:15.391] [DEBUG] debug-file - External build set its own library output location for libcocos_engine.a, which will be hard linked or copy to the expected location.
+[2024-07-11T14:57:15.392] [DEBUG] debug-file - Link /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/.cxx/default/default/arm64-v8a/libcocos_engine.a to /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libcocos_engine.a successfully.
+[2024-07-11T14:57:15.393] [DEBUG] debug-file - External build set its own library output location for libpvmp3dec.a, which will be hard linked or copy to the expected location.
+[2024-07-11T14:57:15.393] [DEBUG] debug-file - Link /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/.cxx/default/default/arm64-v8a/libpvmp3dec.a to /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libpvmp3dec.a successfully.
+[2024-07-11T14:57:15.393] [DEBUG] debug-file - External build set its own library output location for libvorbisidec.a, which will be hard linked or copy to the expected location.
+[2024-07-11T14:57:15.394] [DEBUG] debug-file - Link /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/.cxx/default/default/arm64-v8a/libvorbisidec.a to /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/cmake/default/obj/arm64-v8a/libvorbisidec.a successfully.
+[2024-07-11T14:57:15.394] [DEBUG] debug-file - default@BuildNativeWithNinja work[22] done.
+[2024-07-11T14:57:15.395] [INFO] debug-file - Finished :entry:default@BuildNativeWithNinja... after 2 s 867 ms 
+[2024-07-11T14:57:15.395] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:15.395] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:15.395] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:15.396] [DEBUG] debug-file - Executing task :entry:default@ProcessLibs
+[2024-07-11T14:57:15.632] [DEBUG] debug-file - Incremental task entry:default@ProcessLibs pre-execution cost: 1 ms .
+[2024-07-11T14:57:15.633] [DEBUG] debug-file - entry : default@ProcessLibs cost memory -9.000434875488281
+[2024-07-11T14:57:15.633] [INFO] debug-file - UP-TO-DATE :entry:default@ProcessLibs...  
+[2024-07-11T14:57:15.634] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:15.634] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:15.634] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:15.635] [DEBUG] debug-file - Executing task :entry:default@DoNativeStrip
+[2024-07-11T14:57:15.636] [DEBUG] debug-file - Incremental task entry:default@DoNativeStrip pre-execution cost: 1 ms .
+[2024-07-11T14:57:15.636] [DEBUG] debug-file - entry : default@DoNativeStrip cost memory 0.08138275146484375
+[2024-07-11T14:57:15.636] [INFO] debug-file - UP-TO-DATE :entry:default@DoNativeStrip...  
+[2024-07-11T14:57:15.637] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:15.637] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:15.637] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:15.638] [DEBUG] debug-file - Executing task :entry:default@CacheNativeLibs
+[2024-07-11T14:57:15.639] [DEBUG] debug-file - Incremental task entry:default@CacheNativeLibs pre-execution cost: 1 ms .
+[2024-07-11T14:57:15.639] [DEBUG] debug-file - entry : default@CacheNativeLibs cost memory 0.08824920654296875
+[2024-07-11T14:57:15.639] [INFO] debug-file - UP-TO-DATE :entry:default@CacheNativeLibs...  
+[2024-07-11T14:57:15.640] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:15.640] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:15.640] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:15.641] [DEBUG] debug-file - Executing task :entry:default@GeneratePkgModuleJson
+[2024-07-11T14:57:15.642] [DEBUG] debug-file - entry:default@GeneratePkgModuleJson is not up-to-date, since the output file '/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/package/default/module.json' has been changed.
+[2024-07-11T14:57:15.642] [DEBUG] debug-file - Incremental task entry:default@GeneratePkgModuleJson pre-execution cost: 1 ms .
+[2024-07-11T14:57:15.642] [DEBUG] debug-file - entry : default@GeneratePkgModuleJson cost memory 0.06754302978515625
+[2024-07-11T14:57:15.642] [DEBUG] debug-file - runTaskFromQueue task cost before running: 4 s 219 ms 
+[2024-07-11T14:57:15.642] [INFO] debug-file - Finished :entry:default@GeneratePkgModuleJson... after 2 ms 
+[2024-07-11T14:57:15.644] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:15.644] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:15.644] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:15.646] [DEBUG] debug-file - Executing task :entry:default@PackageHap
+[2024-07-11T14:57:15.651] [DEBUG] debug-file - Incremental task entry:default@PackageHap pre-execution cost: 5 ms .
+[2024-07-11T14:57:15.651] [DEBUG] debug-file - entry : default@PackageHap cost memory 0.5162353515625
+[2024-07-11T14:57:15.651] [INFO] debug-file - UP-TO-DATE :entry:default@PackageHap...  
+[2024-07-11T14:57:15.652] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:15.652] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:57:15.652] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:57:15.653] [DEBUG] debug-file - Executing task :entry:default@SignHap
+[2024-07-11T14:57:15.655] [DEBUG] debug-file - Incremental task entry:default@SignHap pre-execution cost: 3 ms .
+[2024-07-11T14:57:15.656] [DEBUG] debug-file - entry : default@SignHap cost memory 0.0988311767578125
+[2024-07-11T14:57:15.656] [INFO] debug-file - UP-TO-DATE :entry:default@SignHap...  
+[2024-07-11T14:57:15.657] [DEBUG] debug-file - Executing task :entry:assembleHap
+[2024-07-11T14:57:15.657] [DEBUG] debug-file - entry : assembleHap cost memory 0.011383056640625
+[2024-07-11T14:57:15.657] [DEBUG] debug-file - runTaskFromQueue task cost before running: 4 s 233 ms 
+[2024-07-11T14:57:15.657] [INFO] debug-file - Finished :entry:assembleHap... after 1 ms 
+[2024-07-11T14:57:15.657] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@PreBuild is up-to-date.
+[2024-07-11T14:57:15.657] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@GenerateMetadata is up-to-date.
+[2024-07-11T14:57:15.657] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@MergeProfile is up-to-date.
+[2024-07-11T14:57:15.657] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@CreateBuildProfile is up-to-date.
+[2024-07-11T14:57:15.657] [DEBUG] debug-file - Update task entry:default@GeneratePkgContextInfo output file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/loader/default/pkgContextInfo.json cache.
+[2024-07-11T14:57:15.658] [DEBUG] debug-file - Incremental task entry:default@GeneratePkgContextInfo post-execution cost:1 ms .
+[2024-07-11T14:57:15.658] [DEBUG] debug-file - Update task entry:default@ProcessIntegratedHsp output file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/build/cache/default/integrated_hsp/integratedHspCache.json cache.
+[2024-07-11T14:57:15.658] [DEBUG] debug-file - Incremental task entry:default@ProcessIntegratedHsp post-execution cost:1 ms .
+[2024-07-11T14:57:15.658] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@MakePackInfo is up-to-date.
+[2024-07-11T14:57:15.658] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@ProcessProfile is up-to-date.
+[2024-07-11T14:57:15.658] [DEBUG] debug-file - Update task entry:default@SyscapTransform input file:/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/toolchains/syscap_tool cache by regenerate.
+[2024-07-11T14:57:15.658] [DEBUG] debug-file - Update task entry:default@SyscapTransform input file:/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/ets/api/device-define cache by regenerate.
+[2024-07-11T14:57:15.658] [DEBUG] debug-file - Update task entry:default@SyscapTransform output file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/syscap/default/rpcid.sc cache.
+[2024-07-11T14:57:15.659] [DEBUG] debug-file - Incremental task entry:default@SyscapTransform post-execution cost:1 ms .
+[2024-07-11T14:57:15.659] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@ProcessRouterMap is up-to-date.
+[2024-07-11T14:57:15.659] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@ProcessResource is up-to-date.
+[2024-07-11T14:57:15.659] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@GenerateLoaderJson is up-to-date.
+[2024-07-11T14:57:15.659] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@CompileResource is up-to-date.
+[2024-07-11T14:57:15.659] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@CompileArkTS is up-to-date.
+[2024-07-11T14:57:15.659] [DEBUG] debug-file - Update task entry:default@BuildJS input file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/loader/default cache by regenerate.
+[2024-07-11T14:57:15.659] [DEBUG] debug-file - Update task entry:default@BuildJS input file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/res/default/resources/rawfile cache by regenerate.
+[2024-07-11T14:57:15.662] [DEBUG] debug-file - Update task entry:default@BuildJS input file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/res/default/ResourceTable.txt cache by regenerate.
+[2024-07-11T14:57:15.662] [DEBUG] debug-file - Update task entry:default@BuildJS input file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/res/default/module.json cache by regenerate.
+[2024-07-11T14:57:15.662] [DEBUG] debug-file - Update task entry:default@BuildJS input file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/res/default/resources/base/profile cache by regenerate.
+[2024-07-11T14:57:15.662] [DEBUG] debug-file - Update task entry:default@BuildJS output file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/loader_out/default/js cache.
+[2024-07-11T14:57:15.662] [DEBUG] debug-file - Incremental task entry:default@BuildJS post-execution cost:4 ms .
+[2024-07-11T14:57:15.662] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@ProcessLibs is up-to-date.
+[2024-07-11T14:57:15.662] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@DoNativeStrip is up-to-date.
+[2024-07-11T14:57:15.662] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@CacheNativeLibs is up-to-date.
+[2024-07-11T14:57:15.662] [DEBUG] debug-file - Update task entry:default@GeneratePkgModuleJson input file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/res/default/module.json cache by regenerate.
+[2024-07-11T14:57:15.662] [DEBUG] debug-file - Update task entry:default@GeneratePkgModuleJson output file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/package/default/module.json cache.
+[2024-07-11T14:57:15.662] [DEBUG] debug-file - Incremental task entry:default@GeneratePkgModuleJson post-execution cost:1 ms .
+[2024-07-11T14:57:15.662] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@PackageHap is up-to-date.
+[2024-07-11T14:57:15.662] [DEBUG] debug-file - There is no need to refresh cache, since the incremental task entry:default@SignHap is up-to-date.
+[2024-07-11T14:58:01.520] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: true,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2024-07-11T14:58:01.527] [DEBUG] debug-file - Cache service initialization finished in 8 ms 
+[2024-07-11T14:58:01.533] [DEBUG] debug-file - hvigorfile, resolving /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/hvigorfile.ts
+[2024-07-11T14:58:01.542] [DEBUG] debug-file - hvigorfile, require result:  {}
+[2024-07-11T14:58:01.542] [DEBUG] debug-file - hvigorfile, binding system plugins {}
+[2024-07-11T14:58:01.560] [DEBUG] debug-file - Start initialize project's product build option map with build mode release.
+[2024-07-11T14:58:01.560] [DEBUG] debug-file - Picking option from product 'default' with build mode 'release'.
+[2024-07-11T14:58:01.560] [DEBUG] debug-file - Product 'default' build option: {}
+[2024-07-11T14:58:01.560] [DEBUG] debug-file - End initialize project's product build option map with build mode 'release'.
+[2024-07-11T14:58:01.560] [DEBUG] debug-file - Product 'default' using build option: {
+  "debuggable": false
+} in this build.
+[2024-07-11T14:58:01.569] [DEBUG] debug-file - No signingConfig found, initRemoteHspCache failed.
+[2024-07-11T14:58:01.573] [DEBUG] debug-file - Sdk init in 4 ms 
+[2024-07-11T14:58:01.579] [DEBUG] debug-file - Project task initialization takes 6 ms 
+[2024-07-11T14:58:01.579] [DEBUG] debug-file - hvigorfile, resolve finished /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/hvigorfile.ts
+[2024-07-11T14:58:01.580] [DEBUG] debug-file - hvigorfile, resolving /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/hvigorfile.ts
+[2024-07-11T14:58:01.583] [DEBUG] debug-file - hvigorfile, require result:  {}
+[2024-07-11T14:58:01.583] [DEBUG] debug-file - hvigorfile, binding system plugins {}
+[2024-07-11T14:58:01.586] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=release
+[2024-07-11T14:58:01.586] [DEBUG] debug-file - Target 'default' config: {}
+[2024-07-11T14:58:01.587] [DEBUG] debug-file - Module 'entry' target 'default' build option: {
+  "debuggable": false,
+  "copyFrom": "default",
+  "externalNativeOptions": {
+    "path": "../CMakeLists.txt",
+    "arguments": "-v -DOHOS_STL=c++_shared -DRES_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../build/openharmony -DCOMMON_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../native/engine/common -DOPENHARMONY=1",
+    "abiFilters": [
+      "arm64-v8a"
+    ],
+    "cppFlags": ""
+  }
+}
+[2024-07-11T14:58:01.587] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2024-07-11T14:58:01.587] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": false,
+  "copyFrom": "default",
+  "externalNativeOptions": {
+    "path": "../CMakeLists.txt",
+    "arguments": "-v -DOHOS_STL=c++_shared -DRES_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../build/openharmony -DCOMMON_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../native/engine/common -DOPENHARMONY=1",
+    "abiFilters": [
+      "arm64-v8a"
+    ],
+    "cppFlags": ""
+  }
+} in this build.
+[2024-07-11T14:58:01.588] [DEBUG] debug-file - Module entry task initialization takes 1 ms 
+[2024-07-11T14:58:01.588] [DEBUG] debug-file - hvigorfile, resolve finished /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/hvigorfile.ts
+[2024-07-11T14:58:01.670] [DEBUG] debug-file - hvigorfile, resolve hvigorfile dependencies in 83 ms 
+[2024-07-11T14:58:01.671] [DEBUG] debug-file - project has submodules:entry
+[2024-07-11T14:58:01.671] [DEBUG] debug-file - start to load updatedOhPackageInfo to the disk
+[2024-07-11T14:58:01.678] [DEBUG] debug-file - load to the disk finished
+[2024-07-11T14:58:01.679] [DEBUG] debug-file - Module openharmony Collected Dependency: 
+[2024-07-11T14:58:01.679] [DEBUG] debug-file - Module openharmony's total dependency: 0
+[2024-07-11T14:58:01.679] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2024-07-11T14:58:01.679] [DEBUG] debug-file - Module entry's total dependency: 0
+[2024-07-11T14:58:01.680] [DEBUG] debug-file - Configuration phase cost:152 ms 
+[2024-07-11T14:58:01.681] [DEBUG] debug-file - Configuration task cost before running: 165 ms 
+[2024-07-11T14:58:01.681] [DEBUG] debug-file - Executing task :entry:init
+[2024-07-11T14:58:01.681] [DEBUG] debug-file - entry : init cost memory 0.0127105712890625
+[2024-07-11T14:58:01.681] [DEBUG] debug-file - runTaskFromQueue task cost before running: 165 ms 
+[2024-07-11T14:58:01.681] [INFO] debug-file - Finished :entry:init... after 1 ms 
+[2024-07-11T14:58:01.681] [DEBUG] debug-file - Executing task ::init
+[2024-07-11T14:58:01.681] [DEBUG] debug-file - openharmony : init cost memory 0.016326904296875
+[2024-07-11T14:58:01.681] [DEBUG] debug-file - runTaskFromQueue task cost before running: 165 ms 
+[2024-07-11T14:58:01.681] [INFO] debug-file - Finished ::init... after 1 ms 
+[2024-07-11T14:58:01.682] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": false,
+  "copyFrom": "default",
+  "externalNativeOptions": {
+    "path": "../CMakeLists.txt",
+    "arguments": "-v -DOHOS_STL=c++_shared -DRES_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../build/openharmony -DCOMMON_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../native/engine/common -DOPENHARMONY=1",
+    "abiFilters": [
+      "arm64-v8a"
+    ],
+    "cppFlags": ""
+  }
+} in this build.
+[2024-07-11T14:58:02.010] [DEBUG] debug-file - Hvigor init with startParameters:{
+  hvigorfileTypeCheck: false,
+  parallelExecution: true,
+  incrementalExecution: true,
+  printStackTrace: false,
+  daemon: true,
+  analyze: 0,
+  logLevel: Level { level: 20000, levelStr: 'INFO', colour: 'green' }
+}
+[2024-07-11T14:58:02.013] [DEBUG] debug-file - Cache service initialization finished in 3 ms 
+[2024-07-11T14:58:02.033] [DEBUG] debug-file - hvigorfile, resolving /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/hvigorfile.ts
+[2024-07-11T14:58:02.035] [DEBUG] debug-file - hvigorfile, require result:  {}
+[2024-07-11T14:58:02.035] [DEBUG] debug-file - hvigorfile, binding system plugins {}
+[2024-07-11T14:58:02.038] [DEBUG] debug-file - Start initialize project's product build option map with build mode release.
+[2024-07-11T14:58:02.038] [DEBUG] debug-file - Picking option from product 'default' with build mode 'release'.
+[2024-07-11T14:58:02.038] [DEBUG] debug-file - Product 'default' build option: {}
+[2024-07-11T14:58:02.038] [DEBUG] debug-file - End initialize project's product build option map with build mode 'release'.
+[2024-07-11T14:58:02.038] [DEBUG] debug-file - Product 'default' using build option: {
+  "debuggable": false
+} in this build.
+[2024-07-11T14:58:02.038] [DEBUG] debug-file - No signingConfig found, initRemoteHspCache failed.
+[2024-07-11T14:58:02.040] [DEBUG] debug-file - Sdk init in 2 ms 
+[2024-07-11T14:58:02.045] [DEBUG] debug-file - Project task initialization takes 4 ms 
+[2024-07-11T14:58:02.045] [DEBUG] debug-file - hvigorfile, resolve finished /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/hvigorfile.ts
+[2024-07-11T14:58:02.051] [DEBUG] debug-file - hvigorfile, resolving /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/hvigorfile.ts
+[2024-07-11T14:58:02.055] [DEBUG] debug-file - hvigorfile, require result:  {}
+[2024-07-11T14:58:02.055] [DEBUG] debug-file - hvigorfile, binding system plugins {}
+[2024-07-11T14:58:02.056] [DEBUG] debug-file - Start initialize module-target build option map, moduleName=entry, buildMode=release
+[2024-07-11T14:58:02.056] [DEBUG] debug-file - Target 'default' config: {}
+[2024-07-11T14:58:02.056] [DEBUG] debug-file - Module 'entry' target 'default' build option: {
+  "debuggable": false,
+  "copyFrom": "default",
+  "externalNativeOptions": {
+    "path": "../CMakeLists.txt",
+    "arguments": "-v -DOHOS_STL=c++_shared -DRES_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../build/openharmony -DCOMMON_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../native/engine/common -DOPENHARMONY=1",
+    "abiFilters": [
+      "arm64-v8a"
+    ],
+    "cppFlags": ""
+  }
+}
+[2024-07-11T14:58:02.056] [DEBUG] debug-file - End initialize module-target build option map, moduleName=entry
+[2024-07-11T14:58:02.057] [DEBUG] debug-file - Module 'entry' target 'default' using build option: {
+  "debuggable": false,
+  "copyFrom": "default",
+  "externalNativeOptions": {
+    "path": "../CMakeLists.txt",
+    "arguments": "-v -DOHOS_STL=c++_shared -DRES_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../build/openharmony -DCOMMON_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../native/engine/common -DOPENHARMONY=1",
+    "abiFilters": [
+      "arm64-v8a"
+    ],
+    "cppFlags": ""
+  }
+} in this build.
+[2024-07-11T14:58:02.057] [DEBUG] debug-file - Module entry task initialization takes 1 ms 
+[2024-07-11T14:58:02.057] [DEBUG] debug-file - hvigorfile, resolve finished /Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/hvigorfile.ts
+[2024-07-11T14:58:02.159] [DEBUG] debug-file - hvigorfile, resolve hvigorfile dependencies in 101 ms 
+[2024-07-11T14:58:02.159] [DEBUG] debug-file - project has submodules:entry
+[2024-07-11T14:58:02.159] [DEBUG] debug-file - start to load updatedOhPackageInfo to the disk
+[2024-07-11T14:58:02.162] [DEBUG] debug-file - load to the disk finished
+[2024-07-11T14:58:02.163] [DEBUG] debug-file - Module openharmony Collected Dependency: 
+[2024-07-11T14:58:02.163] [DEBUG] debug-file - Module openharmony's total dependency: 0
+[2024-07-11T14:58:02.163] [DEBUG] debug-file - Module entry Collected Dependency: 
+[2024-07-11T14:58:02.163] [DEBUG] debug-file - Module entry's total dependency: 0
+[2024-07-11T14:58:02.163] [DEBUG] debug-file - Configuration phase cost:140 ms 
+[2024-07-11T14:58:02.164] [DEBUG] debug-file - Configuration task cost before running: 162 ms 
+[2024-07-11T14:58:02.164] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:58:02.164] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:58:02.164] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:58:02.166] [DEBUG] debug-file - Executing task :entry:default@PreBuild
+[2024-07-11T14:58:02.167] [DEBUG] debug-file - entry:default@PreBuild is not up-to-date, since the input file '/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/build-profile.json5' has been changed.
+[2024-07-11T14:58:02.167] [DEBUG] debug-file - Incremental task entry:default@PreBuild pre-execution cost: 1 ms .
+[2024-07-11T14:58:02.177] [DEBUG] debug-file - current product is not Atomic service.
+[2024-07-11T14:58:02.177] [DEBUG] debug-file - Use tool [darwin: JAVA_HOME, CLASSPATH]
+ [
+  {
+    JAVA_HOME: '/Applications/DevEco-Studio.app/Contents/jbr/Contents/Home'
+  },
+  { CLASSPATH: undefined }
+]
+[2024-07-11T14:58:02.177] [DEBUG] debug-file - Use tool [darwin: NODE_HOME]
+ [
+  {
+    NODE_HOME: '/Applications/DevEco-Studio.app/Contents/tools/node/bin'
+  }
+]
+[2024-07-11T14:58:02.177] [DEBUG] debug-file - entry : default@PreBuild cost memory 0.8504638671875
+[2024-07-11T14:58:02.178] [DEBUG] debug-file - runTaskFromQueue task cost before running: 176 ms 
+[2024-07-11T14:58:02.178] [INFO] debug-file - Finished :entry:default@PreBuild... after 12 ms 
+[2024-07-11T14:58:02.179] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:58:02.179] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:58:02.179] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:58:02.179] [DEBUG] debug-file - Executing task :entry:default@ConfigureCmake
+[2024-07-11T14:58:02.195] [DEBUG] debug-file - entry : default@ConfigureCmake cost memory 2.3785324096679688
+[2024-07-11T14:58:02.195] [DEBUG] debug-file - runTaskFromQueue task cost before running: 193 ms 
+[2024-07-11T14:58:02.195] [INFO] debug-file - Finished :entry:default@ConfigureCmake... after 16 ms 
+[2024-07-11T14:58:02.196] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:58:02.196] [DEBUG] debug-file - jsonObjWithoutParam {} at undefined
+[2024-07-11T14:58:02.196] [DEBUG] debug-file - jsonObjWithoutParam {"license":"","devDependencies":{},"author":"","name":"entry","description":"example description","main":"","version":"1.0.0","dependencies":{}} at undefined
+[2024-07-11T14:58:02.205] [DEBUG] debug-file - Executing task :entry:default@BuildNativeWithCmake
+[2024-07-11T14:58:02.212] [DEBUG] debug-file - Use tool [Cmake]
+ [
+  '/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/build-tools/cmake/bin/cmake',
+  '-v',
+  '-DOHOS_STL=c++_shared',
+  '-DRES_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../build/openharmony',
+  '-DCOMMON_DIR=${CMAKE_CURRENT_LIST_DIR}/../../../../native/engine/common',
+  '-DOPENHARMONY=1',
+  '-H/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony',
+  '-B/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/.cxx/default/default/arm64-v8a',
+  '-DOHOS_ARCH=arm64-v8a',
+  '-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build/default/intermediates/cmake/default/obj/arm64-v8a',
+  '-DCMAKE_BUILD_TYPE=Release',
+  '-DOHOS_SDK_NATIVE=/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native',
+  '-DCMAKE_SYSTEM_NAME=OHOS',
+  '-DCMAKE_OHOS_ARCH_ABI=arm64-v8a',
+  '-DCMAKE_EXPORT_COMPILE_COMMANDS=ON',
+  '-DCMAKE_TOOLCHAIN_FILE=/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/hms/native/build/cmake/hmos.toolchain.cmake',
+  '-GNinja',
+  '-DCMAKE_MAKE_PROGRAM=/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/build-tools/cmake/bin/ninja',
+  '-DCMAKE_FIND_ROOT_PATH=/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/.cxx/default/default/hvigor/arm64-v8a',
+  '-DPACKAGE_FIND_FILE=/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/.cxx/default/default/hvigor/arm64-v8a/summary.cmake',
+  '--no-warn-unused-cli',
+  '-DHMOS_SDK_NATIVE=/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/hms/native'
+]
+[2024-07-11T14:58:02.228] [DEBUG] debug-file - CMake configuration was up-to-date
+[2024-07-11T14:58:02.230] [DEBUG] debug-file - entry : default@BuildNativeWithCmake cost memory -25.851394653320312
+[2024-07-11T14:58:02.230] [DEBUG] debug-file - runTaskFromQueue task cost before running: 228 ms 
+[2024-07-11T14:58:02.230] [INFO] debug-file - Finished :entry:default@BuildNativeWithCmake... after 26 ms 
+[2024-07-11T14:58:02.231] [DEBUG] debug-file - Executing task :entry:compileNative
+[2024-07-11T14:58:02.231] [DEBUG] debug-file - entry : compileNative cost memory 0.01139068603515625
+[2024-07-11T14:58:02.231] [DEBUG] debug-file - runTaskFromQueue task cost before running: 229 ms 
+[2024-07-11T14:58:02.231] [INFO] debug-file - Finished :entry:compileNative... after 1 ms 
+[2024-07-11T14:58:02.231] [DEBUG] debug-file - Update task entry:default@PreBuild input file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/AppScope/app.json5 cache by regenerate.
+[2024-07-11T14:58:02.231] [DEBUG] debug-file - Update task entry:default@PreBuild input file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/src/main/module.json5 cache by regenerate.
+[2024-07-11T14:58:02.232] [DEBUG] debug-file - Update task entry:default@PreBuild input file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/build-profile.json5 cache from map.
+[2024-07-11T14:58:02.232] [DEBUG] debug-file - Update task entry:default@PreBuild input file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/build-profile.json5 cache by regenerate.
+[2024-07-11T14:58:02.232] [DEBUG] debug-file - Update task entry:default@PreBuild input file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/src/main/resources/base/profile/main_pages.json cache by regenerate.
+[2024-07-11T14:58:02.232] [DEBUG] debug-file - Update task entry:default@PreBuild input file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/hvigor/hvigor-config.json5 cache by regenerate.
+[2024-07-11T14:58:02.232] [DEBUG] debug-file - Update task entry:default@PreBuild input file:/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/openharmony/entry/oh-package.json5 cache by regenerate.
+[2024-07-11T14:58:02.232] [DEBUG] debug-file - Incremental task entry:default@PreBuild post-execution cost:1 ms .

@@ -1,0 +1,212 @@
+{
+	"backtrace" : 5,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_custom_target",
+			"include"
+		],
+		"files" : 
+		[
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/CMakeLists.txt",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/common/CMakeLists.txt",
+			"CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 2
+			},
+			{
+				"command" : 1,
+				"file" : 2,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"file" : 1,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 50,
+				"parent" : 2
+			},
+			{
+				"file" : 0,
+				"parent" : 3
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 3364,
+				"parent" : 4
+			}
+		]
+	},
+	"folder" : 
+	{
+		"name" : "Utils"
+	},
+	"id" : "genbindings::@6890427a1f51a3e7e1df",
+	"name" : "genbindings",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				0
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 5,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/CMakeFiles/genbindings",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/CMakeFiles/genbindings.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_network_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_cocos_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_extension_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_gfx_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_pipeline_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_scene_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_gi_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_assets_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_geometry_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_render_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_2d_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_audio_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_video_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_webview_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_editor_support_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_spine_auto.h.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "entry/.cxx/default/default/arm64-v8a/generated/cocos/bindings/auto/jsb_dragonbones_auto.h.rule",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "UTILITY"
+}

@@ -1,0 +1,10 @@
+{
+  "entry/src/main/ets/pages/index.ets": [
+    "Flex",
+    "Column",
+    "XComponent"
+  ],
+  "entry/src/main/ets/cocos/WorkerManager.ets": [
+    "If"
+  ]
+}

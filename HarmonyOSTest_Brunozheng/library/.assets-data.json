@@ -1,0 +1,62 @@
+{
+  "6b2d8732-4805-412d-8b2e-45ec38abfb3e": {
+    "url": "db://assets/HarmonyOSTest.ts",
+    "value": {},
+    "versionCode": 0
+  },
+  "4a093bbd-5517-4154-8748-cc13c329dd08": {
+    "url": "db://assets/resources",
+    "value": {},
+    "versionCode": 0
+  },
+  "ebce2837-5929-4879-b9cb-be492d996d4b": {
+    "url": "db://assets/resources/img",
+    "value": {},
+    "versionCode": 0
+  },
+  "d5e3514a-71db-46e7-8a40-172ee50ff22d": {
+    "url": "db://assets/resources/img/dm_first_avatar.png",
+    "value": {
+      "depends": []
+    },
+    "versionCode": 0
+  },
+  "d5e3514a-71db-46e7-8a40-172ee50ff22d@6c48a": {
+    "url": "db://assets/resources/img/dm_first_avatar.png@6c48a",
+    "value": {
+      "depends": [
+        "d5e3514a-71db-46e7-8a40-172ee50ff22d"
+      ]
+    },
+    "versionCode": 0
+  },
+  "d5e3514a-71db-46e7-8a40-172ee50ff22d@f9941": {
+    "url": "db://assets/resources/img/dm_first_avatar.png@f9941",
+    "value": {
+      "depends": [
+        "d5e3514a-71db-46e7-8a40-172ee50ff22d@6c48a"
+      ]
+    },
+    "versionCode": 0
+  },
+  "cdd1ec84-0760-4ca1-9281-6dbe446228f6": {
+    "url": "db://assets/scene/harmonyTestScene.scene",
+    "value": {
+      "depends": [
+        "cdd1ec84-0760-4ca1-9281-6dbe446228f6",
+        "20835ba4-6145-4fbc-a58a-051ce700aa3e@f9941",
+        "544e49d6-3f05-4fa8-9a9e-091f98fc2ce8@f9941",
+        "951249e0-9f16-456d-8b85-a6ca954da16b@f9941"
+      ],
+      "dependScripts": [
+        "6b2d8732-4805-412d-8b2e-45ec38abfb3e"
+      ]
+    },
+    "versionCode": 0
+  },
+  "13b30454-0751-4cff-8315-8bba818881ee": {
+    "url": "db://assets/scene",
+    "value": {},
+    "versionCode": 0
+  }
+}

@@ -1,0 +1,15 @@
+Checking whether the ASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
+OHOS (dev) clang version 15.0.4 (llvm-project 6b2b862de240ef5a943e93344189e7ae1b7000f1)
+Target: arm64-apple-darwin23.4.0
+Thread model: posix
+InstalledDir: /Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/llvm/bin
+Checking whether the ASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
+OHOS (dev) clang version 15.0.4 (llvm-project 6b2b862de240ef5a943e93344189e7ae1b7000f1)
+Target: arm64-apple-darwin23.4.0
+Thread model: posix
+InstalledDir: /Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/llvm/bin
+Checking whether the ASM compiler is GNU using "--version" did not match "(GNU assembler)|(GCC)|(Free Software Foundation)":
+OHOS (dev) clang version 15.0.4 (llvm-project 6b2b862de240ef5a943e93344189e7ae1b7000f1)
+Target: arm64-apple-darwin23.4.0
+Thread model: posix
+InstalledDir: /Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/llvm/bin

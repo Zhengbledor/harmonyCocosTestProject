@@ -1,0 +1,19 @@
+{
+  "entry/src/main/ets/MainAbility/MainAbility.ts": [
+    "ohos.app.ability.UIAbility",
+    "ohos.multimedia.avsession"
+  ],
+  "entry/src/main/ets/workers/cocos_worker.ts": [
+    "ohos.worker"
+  ],
+  "entry/src/main/ets/cocos/WorkerManager.ets": [
+    "ohos.worker"
+  ],
+  "entry/src/main/ets/cocos/jsb-adapter/sys-ability-polyfill.js": [
+    "ohos.display",
+    "ohos.i18n",
+    "ohos.deviceInfo",
+    "ohos.batteryInfo",
+    "ohos.sensor"
+  ]
+}

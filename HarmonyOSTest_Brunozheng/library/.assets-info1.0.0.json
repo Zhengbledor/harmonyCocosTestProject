@@ -1,0 +1,54 @@
+{
+  "version": "1.0.0",
+  "map": {
+    "/Users/zhengzhihao/Documents/tencent/cocos/HarmonOSTest_Brunozheng/assets/HarmonyOSTest.ts.meta": {
+      "time": 1720531865911.26
+    },
+    "/Users/zhengzhihao/Documents/tencent/cocos/HarmonOSTest_Brunozheng/assets/HarmonyOSTest.ts": {
+      "time": 1720532098937.3098,
+      "uuid": "6b2d8732-4805-412d-8b2e-45ec38abfb3e"
+    },
+    "/Users/zhengzhihao/Documents/tencent/cocos/HarmonOSTest_Brunozheng/assets/resources.meta": {
+      "time": 1720531885193.3933
+    },
+    "/Users/zhengzhihao/Documents/tencent/cocos/HarmonOSTest_Brunozheng/assets/resources": {
+      "time": 1720532499391.2905,
+      "uuid": "4a093bbd-5517-4154-8748-cc13c329dd08"
+    },
+    "/Users/zhengzhihao/Documents/tencent/cocos/HarmonOSTest_Brunozheng/assets/resources/img.meta": {
+      "time": 1720532025539.2466
+    },
+    "/Users/zhengzhihao/Documents/tencent/cocos/HarmonOSTest_Brunozheng/assets/resources/img": {
+      "time": 1720532035031.6558,
+      "uuid": "ebce2837-5929-4879-b9cb-be492d996d4b"
+    },
+    "/Users/zhengzhihao/Documents/tencent/cocos/HarmonOSTest_Brunozheng/assets/resources/img/dm_first_avatar.png.meta": {
+      "time": 1720532035031.7954
+    },
+    "/Users/zhengzhihao/Documents/tencent/cocos/HarmonOSTest_Brunozheng/assets/resources/img/dm_first_avatar.png": {
+      "time": 1720532035029.3254,
+      "uuid": "d5e3514a-71db-46e7-8a40-172ee50ff22d"
+    },
+    "/Users/zhengzhihao/Documents/tencent/cocos/HarmonOSTest_Brunozheng/assets/scene.meta": {
+      "time": 1720532493287.0796
+    },
+    "/Users/zhengzhihao/Documents/tencent/cocos/HarmonOSTest_Brunozheng/assets/scene": {
+      "time": 1720532499391.2905,
+      "uuid": "13b30454-0751-4cff-8315-8bba818881ee"
+    },
+    "/Users/zhengzhihao/Documents/tencent/cocos/HarmonOSTest_Brunozheng/assets/scene/harmonyTestScene.scene.meta": {
+      "time": 1720532152373.4946
+    },
+    "/Users/zhengzhihao/Documents/tencent/cocos/HarmonOSTest_Brunozheng/assets/scene/harmonyTestScene.scene": {
+      "time": 1720532500804.6814,
+      "uuid": "cdd1ec84-0760-4ca1-9281-6dbe446228f6"
+    }
+  },
+  "missing": {
+    "cdd1ec84-0760-4ca1-9281-6dbe446228f6": {
+      "path": "/Users/zhengzhihao/Documents/tencent/cocos/HarmonOSTest_Brunozheng/assets/resources/harmonyTestScene.scene",
+      "time": 1720532441932.6067,
+      "removeTime": 1720532499392
+    }
+  }
+}

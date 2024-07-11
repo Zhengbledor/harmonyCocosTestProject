@@ -1,0 +1,608 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "boost/container/libboost_container.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_definitions",
+			"include",
+			"target_compile_definitions",
+			"include_directories",
+			"project"
+		],
+		"files" : 
+		[
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/boost-source/container/CMakeLists.txt",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/boost-source/boost.cmake",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/CMakeLists.txt",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/CMakeLists.txt",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/CMakeLists.txt",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/HarmonOSTest_Brunozheng/native/engine/common/CMakeLists.txt",
+			"CMakeLists.txt",
+			"/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/cmake/predefine.cmake",
+			"/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/hms/native/build/cmake/hmos.toolchain.cmake",
+			"/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/build-tools/cmake/share/cmake-3.16/Modules/CMakeDetermineSystem.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"file" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 6,
+				"line" : 15,
+				"parent" : 2
+			},
+			{
+				"file" : 5,
+				"parent" : 3
+			},
+			{
+				"command" : 2,
+				"file" : 5,
+				"line" : 50,
+				"parent" : 4
+			},
+			{
+				"file" : 4,
+				"parent" : 5
+			},
+			{
+				"command" : 2,
+				"file" : 4,
+				"line" : 243,
+				"parent" : 6
+			},
+			{
+				"file" : 3,
+				"parent" : 7
+			},
+			{
+				"command" : 2,
+				"file" : 3,
+				"line" : 12,
+				"parent" : 8
+			},
+			{
+				"file" : 2,
+				"parent" : 9
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 50,
+				"parent" : 10
+			},
+			{
+				"file" : 1,
+				"parent" : 11
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 3,
+				"parent" : 12
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 30,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 4,
+				"line" : 91,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 4,
+				"line" : 98,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 4,
+				"line" : 94,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 4,
+				"line" : 96,
+				"parent" : 6
+			},
+			{
+				"command" : 1,
+				"file" : 4,
+				"line" : 95,
+				"parent" : 6
+			},
+			{
+				"command" : 2,
+				"file" : 4,
+				"line" : 2,
+				"parent" : 6
+			},
+			{
+				"file" : 7,
+				"parent" : 21
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 105,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 98,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 104,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 95,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 100,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 94,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 97,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 96,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 102,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 99,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 103,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 101,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 93,
+				"parent" : 22
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 69,
+				"parent" : 22
+			},
+			{
+				"command" : 5,
+				"file" : 6,
+				"line" : 10,
+				"parent" : 2
+			},
+			{
+				"file" : 9,
+				"parent" : 37
+			},
+			{
+				"command" : 2,
+				"file" : 9,
+				"line" : 93,
+				"parent" : 38
+			},
+			{
+				"file" : 8,
+				"parent" : 39
+			},
+			{
+				"command" : 4,
+				"file" : 8,
+				"line" : 25,
+				"parent" : 40
+			},
+			{
+				"command" : 4,
+				"file" : 4,
+				"line" : 195,
+				"parent" : 6
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -D__MUSL__ -O2 -DNDEBUG  -fPIC  "
+				},
+				{
+					"fragment" : "-std=gnu99"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 13,
+					"define" : "BOOST_ALL_NO_LIB=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "BOOST_CONTAINER_NO_LIB"
+				},
+				{
+					"backtrace" : 15,
+					"define" : "BOOST_CONTAINER_STATIC_LINK"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "BOOST_NO_CXX98_FUNCTION_BASE"
+				},
+				{
+					"backtrace" : 0,
+					"define" : "BOOST_UUID_FORCE_AUTO_LINK"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "CC_NETMODE=0"
+				},
+				{
+					"backtrace" : 18,
+					"define" : "CC_NETMODE_CLIENT=0"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "CC_NETMODE_HOST_SERVER=2"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "CC_NETMODE_LISTEN_SERVER=1"
+				},
+				{
+					"backtrace" : 23,
+					"define" : "CC_PLATFORM=10"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "CC_PLATFORM_ANDROID=3"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "CC_PLATFORM_EMSCRIPTEN=9"
+				},
+				{
+					"backtrace" : 26,
+					"define" : "CC_PLATFORM_IOS=1"
+				},
+				{
+					"backtrace" : 27,
+					"define" : "CC_PLATFORM_LINUX=6"
+				},
+				{
+					"backtrace" : 28,
+					"define" : "CC_PLATFORM_MACOS=4"
+				},
+				{
+					"backtrace" : 29,
+					"define" : "CC_PLATFORM_MAC_IOS=1"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "CC_PLATFORM_MAC_OSX=4"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "CC_PLATFORM_NX=8"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "CC_PLATFORM_OHOS=5"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "CC_PLATFORM_OPENHARMONY=10"
+				},
+				{
+					"backtrace" : 34,
+					"define" : "CC_PLATFORM_QNX=7"
+				},
+				{
+					"backtrace" : 35,
+					"define" : "CC_PLATFORM_WINDOWS=2"
+				},
+				{
+					"backtrace" : 36,
+					"define" : "__OPENHARMONY__=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 41,
+					"path" : "/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/hms/native/sysroot/usr/include"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0
+			],
+			"sysroot" : 
+			{
+				"path" : "/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/sysroot"
+			}
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-fvisibility=hidden -fvisibility-inlines-hidden -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security   -D__MUSL__ -O2 -DNDEBUG  -fPIC  "
+				},
+				{
+					"fragment" : "-std=c++17"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 13,
+					"define" : "BOOST_ALL_NO_LIB=1"
+				},
+				{
+					"backtrace" : 14,
+					"define" : "BOOST_CONTAINER_NO_LIB"
+				},
+				{
+					"backtrace" : 15,
+					"define" : "BOOST_CONTAINER_STATIC_LINK"
+				},
+				{
+					"backtrace" : 16,
+					"define" : "BOOST_NO_CXX98_FUNCTION_BASE"
+				},
+				{
+					"backtrace" : 0,
+					"define" : "BOOST_UUID_FORCE_AUTO_LINK"
+				},
+				{
+					"backtrace" : 17,
+					"define" : "CC_NETMODE=0"
+				},
+				{
+					"backtrace" : 18,
+					"define" : "CC_NETMODE_CLIENT=0"
+				},
+				{
+					"backtrace" : 19,
+					"define" : "CC_NETMODE_HOST_SERVER=2"
+				},
+				{
+					"backtrace" : 20,
+					"define" : "CC_NETMODE_LISTEN_SERVER=1"
+				},
+				{
+					"backtrace" : 23,
+					"define" : "CC_PLATFORM=10"
+				},
+				{
+					"backtrace" : 24,
+					"define" : "CC_PLATFORM_ANDROID=3"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "CC_PLATFORM_EMSCRIPTEN=9"
+				},
+				{
+					"backtrace" : 26,
+					"define" : "CC_PLATFORM_IOS=1"
+				},
+				{
+					"backtrace" : 27,
+					"define" : "CC_PLATFORM_LINUX=6"
+				},
+				{
+					"backtrace" : 28,
+					"define" : "CC_PLATFORM_MACOS=4"
+				},
+				{
+					"backtrace" : 29,
+					"define" : "CC_PLATFORM_MAC_IOS=1"
+				},
+				{
+					"backtrace" : 30,
+					"define" : "CC_PLATFORM_MAC_OSX=4"
+				},
+				{
+					"backtrace" : 31,
+					"define" : "CC_PLATFORM_NX=8"
+				},
+				{
+					"backtrace" : 32,
+					"define" : "CC_PLATFORM_OHOS=5"
+				},
+				{
+					"backtrace" : 33,
+					"define" : "CC_PLATFORM_OPENHARMONY=10"
+				},
+				{
+					"backtrace" : 34,
+					"define" : "CC_PLATFORM_QNX=7"
+				},
+				{
+					"backtrace" : 35,
+					"define" : "CC_PLATFORM_WINDOWS=2"
+				},
+				{
+					"backtrace" : 36,
+					"define" : "__OPENHARMONY__=1"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 41,
+					"path" : "/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/hms/native/sysroot/usr/include"
+				},
+				{
+					"backtrace" : 42,
+					"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"sysroot" : 
+			{
+				"path" : "/Applications/DevEco-Studio.app/Contents/sdk/HarmonyOS-NEXT-DB1/openharmony/native/sysroot"
+			}
+		}
+	],
+	"folder" : 
+	{
+		"name" : "Utils"
+	},
+	"id" : "boost_container::@e8445c4f7494ecc3b64c",
+	"name" : "boost_container",
+	"nameOnDisk" : "libboost_container.a",
+	"paths" : 
+	{
+		"build" : "boost/container",
+		"source" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/boost-source/container"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/boost-source/container/alloc_lib.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/boost-source/container/dlmalloc.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/boost-source/container/global_resource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/boost-source/container/monotonic_buffer_resource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/boost-source/container/pool_resource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/boost-source/container/synchronized_pool_resource.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "/Users/zhengzhihao/Downloads/effect/harmonyCocosTestProject/3d/engine/native/external/sources/boost-source/container/unsynchronized_pool_resource.cpp",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}
