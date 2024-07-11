@@ -7,7 +7,7 @@
 ##### 游戏内容
 
 1. 生成100个小球在同一个点，同时往水平往右做运动，每个小球每帧做100次碰撞检测和位移（模拟计算）
-2. 同时还有一个按钮，点击后做1千万次的for循环计算，同时输出耗时。
+2. 同时还有一个按钮，点击后做1千万次的for循环计算，同时日志会输出耗时。
 
 ##### 项目结构
 
@@ -20,6 +20,18 @@
 ##### 如何运行鸿蒙
 
 DevEco-Studio打开HarmonOSTest_Brunozheng/native/engine/openharmony文件夹
+
+##### 如何修改游戏代码
+
+游戏代码已经被打包成了js文件，主要逻辑就一个Cocos组件 HarmonyTestComponent。
+
+在鸿蒙项目里全局搜harmonyTestComponent，可以找到一个main/index.js。
+
+直接修改里面逻辑然后重跑即可。
+
+
+
+对应的源代码为仓库根目录下/HarmonyOSTest_Brunozheng/asstes/HarmonyOSTest，修改这个并不会直接作用到鸿蒙app里，因为该仓库没直接依赖CocosCreator，需要重新打包才行，这一步需要直接参考CocosCreator3.8.2打OpenHarmony包的流程。
 
 ##### 一些注意事项
 
